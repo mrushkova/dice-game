@@ -1,8 +1,8 @@
-# Dice game
+# 🎲 Dice game
 
 This is a classic Pig game built around JavaScript DOM manipulation.
 
-## Gameplay
+## 🕹 Gameplay
 
 Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold":
 
