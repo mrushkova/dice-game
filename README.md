@@ -2,6 +2,10 @@
 
 This is a classic Pig game built around JavaScript DOM manipulation.
 
+- HTML5, CSS3
+- flexbox layout
+- desktop version
+
 ## 🕹 Gameplay
 
 Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold":
