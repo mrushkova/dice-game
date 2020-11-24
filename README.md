@@ -2,7 +2,7 @@
 
 This is a classic Pig game built around JavaScript DOM manipulation.
 
-- HTML5, CSS3
+- HTML5, CSS3, JavaScript
 - flexbox layout
 - desktop version
 
